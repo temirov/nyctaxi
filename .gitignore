@@ -1,0 +1,5 @@
+*.txt
+.DS_Store
+data/nycTaxiFares
+data/nycTaxiRides
+taxi
